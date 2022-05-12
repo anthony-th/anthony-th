@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 
 <!-- <a href="https://github.com/anthony-th/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-th&layout=compact"/></a> -->
+                       
+<!-- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-th&layout=compact)                       
+                       
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-th&layout=compact) -->
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
