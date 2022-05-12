@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-th&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
+![Codewars](https://www.codewars.com/users/anthony-th/badges/large/?viewBox="0,0,495,40") 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
