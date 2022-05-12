@@ -17,8 +17,16 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-th&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Codewars](https://www.codewars.com/users/anthony-th/badges/large/?viewBox="0,0,495,40") 
 
+<!-- <a href="https://github.com/anthony-th/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-th&layout=compact"/></a> -->
+
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="anthony-th's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anthony-th&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="anthony-th's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anthony-th&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /><br/>
 
 </details>
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/anthony-th/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=anthony-th&color=DE002D">
+   </a>
+</div>
