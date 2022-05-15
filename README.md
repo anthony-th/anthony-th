@@ -30,8 +30,8 @@ Here are some ideas to get you started:
   <img align="left" alt="anthony-th's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anthony-th&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /><br/>
 
 </details>
-<div align="center" style="margin: 40px 0 0">
+<!-- <div align="center" style="margin: 40px 0 0">
    <a href="https://github.com/anthony-th/github-profile-views-counter">
        <img width="110px" src="https://komarev.com/ghpvc/?username=anthony-th&color=18124c">
    </a>
-</div>
+</div> -->
