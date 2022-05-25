@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-th&layout=&card_width=495&theme=radical)
 
-![](https://raw.githubusercontent.com/anthony-th/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/anthony-th/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-th&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Codewars](https://www.codewars.com/users/anthony-th/badges/large/?viewBox="0,0,495,40") 
