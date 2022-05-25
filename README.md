@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 #### I'm a Front-end / React developer with a passion for learning and innovating.
 
-## My portfolio:
+## My portfolio
 
 [Сlick to view](https://anthony-th.github.io/cv)
     
