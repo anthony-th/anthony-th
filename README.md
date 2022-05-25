@@ -27,11 +27,11 @@ Here are some ideas to get you started:
                        
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-th&layout=compact) -->
 
-## About Me
+## About Me:
 
 #### I'm a Front-end / React developer with a passion for learning and innovating.
 
-## My portfolio
+## My portfolio:
 
 #### [Сlick to view](https://anthony-th.github.io/cv)
     
