@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## My portfolio:
 
-#### [Сlick to view](https://anthony-th.github.io/cv)
+#### [Сlick to view](https://portfolio-anth.netlify.app/))
     
 <details>
   <summary>:zap: GitHub Stats</summary>
