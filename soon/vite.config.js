@@ -5,6 +5,6 @@ export default defineConfig({
   base: '/anthony-th/soon/',
   plugins: [react()],
   build: {
-    outDir: './dist/soon'
+    outDir: '../dist/soon'
   },
 });
